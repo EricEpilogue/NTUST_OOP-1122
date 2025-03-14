@@ -1,0 +1,11 @@
+﻿  Fraction.cpp
+C:\Users\USER\OneDrive\桌面\University\NTUST\大一下\C++\Week04_OOP_HW\CS3005302W04\TS0402\Fraction.h(10,18): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\OneDrive\桌面\University\NTUST\大一下\C++\Week04_OOP_HW\CS3005302W04\TS0402\Fraction.h(11,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\OneDrive\桌面\University\NTUST\大一下\C++\Week04_OOP_HW\CS3005302W04\TS0402\Fraction.cpp(5,20): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\OneDrive\桌面\University\NTUST\大一下\C++\Week04_OOP_HW\CS3005302W04\TS0402\Fraction.cpp(10,22): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\OneDrive\桌面\University\NTUST\大一下\C++\Week04_OOP_HW\CS3005302W04\TS0402\Fraction.cpp(16,8): warning C4244: '正在初始化': 將 'long double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  main.cpp
+C:\Users\USER\OneDrive\桌面\University\NTUST\大一下\C++\Week04_OOP_HW\CS3005302W04\TS0402\Fraction.h(10,18): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\USER\OneDrive\桌面\University\NTUST\大一下\C++\Week04_OOP_HW\CS3005302W04\TS0402\Fraction.h(11,20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  正在產生程式碼...
+  TS0402.vcxproj -> C:\Users\USER\OneDrive\桌面\University\NTUST\大一下\C++\Week04_OOP_HW\CS3005302W04\x64\Debug\TS0402.exe
