@@ -1,0 +1,3 @@
+﻿  third.cpp
+C:\Users\USER\OneDrive\桌面\University\NTUST\大一下\C++\Week02_OOP_HW\CS3005302W02\TS0203\third.cpp(12,26): warning C4267: '=': 將 'size_t' 轉換為 'long'，資料可能遺失
+  TS0203.vcxproj -> C:\Users\USER\OneDrive\桌面\University\NTUST\大一下\C++\Week02_OOP_HW\CS3005302W02\x64\Debug\TS0203.exe
