@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xmemory(1985,1): error C2664: 'bool Student::deleteo::<lambda_afc8063b410a255df843721e2d77dce5>::operator ()(const std::string &) const': 無法將引數 1 從 'StRec' 轉換為 'const std::string &'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xmemory(1985,1): message : 原因: 無法從 'StRec'轉換為 'const std::string'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xmemory(1985,24): message : 沒有可以執行此轉換的使用者定義轉換運算子或無法呼叫運算子
+C:\Users\USER\OneDrive\桌面\University\NTUST\大一下\C++\Week05_OOP_HW\CS1010302W05\TS0503\Student.h(93,1): message : 請參閱 'Student::deleteo::<lambda_afc8063b410a255df843721e2d77dce5>::operator ()' 的宣告
+C:\Users\USER\OneDrive\桌面\University\NTUST\大一下\C++\Week05_OOP_HW\CS1010302W05\TS0503\Student.h(93): message : 請參考正在進行編譯的函式 樣板 具現化 '_FwdIt std::remove_if<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,Student::deleteo::<lambda_afc8063b410a255df843721e2d77dce5>>(_FwdIt,const _FwdIt,_Pr)'
+          with
+          [
+              _FwdIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<StRec>>>,
+              _Ty=StRec,
+              _Pr=Student::deleteo::<lambda_afc8063b410a255df843721e2d77dce5>
+          ]
