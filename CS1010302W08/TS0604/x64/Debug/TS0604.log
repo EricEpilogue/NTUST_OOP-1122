@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\RB510\Desktop\CS1010302W08\TS0604\VecNf.h(28,1): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\RB510\Desktop\CS1010302W08\TS0604\VecNf.h(49,1): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\RB510\Desktop\CS1010302W08\TS0604\VecNf.h(66,1): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\RB510\Desktop\CS1010302W08\TS0604\VecNf.h(81,1): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\RB510\Desktop\CS1010302W08\TS0604\VecNf.h(90,1): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\RB510\Desktop\CS1010302W08\TS0604\VecNf.h(99,1): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\RB510\Desktop\CS1010302W08\TS0604\VecNf.h(107,1): warning C4267: 'return': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\RB510\Desktop\CS1010302W08\TS0604\VecNf.h(44): warning C4172: 傳回區域變數或暫存的位址: zero
+C:\Users\RB510\Desktop\CS1010302W08\TS0604\VecNf.h(54): warning C4172: 傳回區域變數或暫存的位址: result
+  TS0604.vcxproj -> C:\Users\RB510\Desktop\CS1010302W08\x64\Debug\TS0604.exe
